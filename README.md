@@ -71,7 +71,6 @@ crime-indonesia-analysis/
 │
 ├── dashboard/
 │   ├── dashboard.html              ← Dashboard HTML interaktif (file utama)
-│   ├── 07_dashboard.ipynb          ← Notebook pembangkit dashboard
 │   └── requirements.txt            ← Dependensi pembangkit dashboard
 │
 └── README.md
