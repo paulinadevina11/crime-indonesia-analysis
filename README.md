@@ -235,4 +235,4 @@ v_trend_national   -- rata-rata nasional crime rate per tahun
  
 ## 👤 Author
  
-**Paulina Devina Wijayaa** — Data Analyst Portfolio Project
+**Paulina Devina Wijaya** — Data Analyst Portfolio Project
