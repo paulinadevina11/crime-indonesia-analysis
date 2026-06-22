@@ -1,0 +1,23 @@
+feature,importance,model,rank
+crime_rate_ma3,0.335196,Random Forest,1
+crime_rate_lag1,0.194922,Random Forest,2
+crime_rate_lag2,0.152087,Random Forest,3
+crime_per_density,0.067342,Random Forest,4
+crime_rate_yoy_change,0.062637,Random Forest,5
+unemp_x_density,0.055049,Random Forest,6
+population_density,0.050427,Random Forest,7
+region_enc,0.041519,Random Forest,8
+trend_direction_enc,0.016915,Random Forest,9
+unemployment_rate,0.012899,Random Forest,10
+pulau_enc,0.011008,Random Forest,11
+crime_rate_ma3,0.525902,XGBoost,1
+trend_direction_enc,0.093811,XGBoost,2
+crime_rate_lag1,0.080232,XGBoost,3
+crime_rate_yoy_change,0.068214,XGBoost,4
+population_density,0.055779,XGBoost,5
+crime_rate_lag2,0.046269,XGBoost,6
+crime_per_density,0.045925,XGBoost,7
+pulau_enc,0.029809,XGBoost,8
+region_enc,0.028189,XGBoost,9
+unemp_x_density,0.016529,XGBoost,10
+unemployment_rate,0.009341,XGBoost,11

@@ -1,0 +1,332 @@
+provinsi,tahun,crime_total,is_outlier
+Aceh,2015,8048.0,False
+Aceh,2016,9646.0,False
+Aceh,2017,8885.0,False
+Aceh,2018,8758.0,False
+Aceh,2019,7483.0,False
+Aceh,2020,7745.0,False
+Aceh,2021,6651.0,False
+Aceh,2022,10137.0,False
+Aceh,2023,12420.0,False
+Aceh,2024,11934.0,False
+Bali,2015,5032.0,False
+Bali,2016,4764.0,False
+Bali,2017,3589.0,False
+Bali,2018,3212.0,False
+Bali,2019,3047.0,False
+Bali,2020,2597.0,False
+Bali,2021,2404.0,False
+Bali,2022,6304.0,False
+Bali,2023,11916.0,False
+Bali,2024,13848.0,False
+Banten,2015,5002.0,False
+Banten,2016,4570.0,False
+Banten,2017,3692.0,False
+Banten,2018,3490.0,False
+Banten,2019,3287.0,False
+Banten,2020,4250.0,False
+Banten,2021,3434.0,False
+Banten,2022,5038.0,False
+Banten,2023,7392.0,False
+Banten,2024,6868.0,False
+Bengkulu,2015,4463.0,False
+Bengkulu,2016,3345.0,True
+Bengkulu,2017,4867.0,False
+Bengkulu,2018,3389.0,False
+Bengkulu,2019,3453.0,False
+Bengkulu,2020,3333.0,False
+Bengkulu,2021,3493.0,False
+Bengkulu,2022,3613.0,False
+Bengkulu,2023,5579.0,False
+Bengkulu,2024,5323.0,False
+DI Yogyakarta,2015,9692.0,False
+DI Yogyakarta,2016,8348.0,False
+DI Yogyakarta,2017,7251.0,False
+DI Yogyakarta,2018,6731.0,False
+DI Yogyakarta,2019,6650.0,False
+DI Yogyakarta,2020,7721.0,False
+DI Yogyakarta,2021,4774.0,False
+DI Yogyakarta,2022,10591.0,False
+DI Yogyakarta,2023,12061.0,False
+DI Yogyakarta,2024,11659.0,False
+DKI Jakarta,2015,44461.0,False
+DKI Jakarta,2016,43842.0,False
+DKI Jakarta,2017,34767.0,False
+DKI Jakarta,2018,34655.0,False
+DKI Jakarta,2019,31934.0,False
+DKI Jakarta,2020,26585.0,False
+DKI Jakarta,2021,29103.0,False
+DKI Jakarta,2022,32602.0,False
+DKI Jakarta,2023,87426.0,False
+DKI Jakarta,2024,77261.0,False
+Gorontalo,2015,3372.0,False
+Gorontalo,2016,3763.0,False
+Gorontalo,2017,3099.0,False
+Gorontalo,2018,2836.0,False
+Gorontalo,2019,2367.0,False
+Gorontalo,2020,2518.0,False
+Gorontalo,2021,2445.0,False
+Gorontalo,2022,2488.0,False
+Gorontalo,2023,3574.0,False
+Gorontalo,2024,3317.0,False
+Jambi,2015,10564.0,False
+Jambi,2016,5904.0,False
+Jambi,2017,9531.0,False
+Jambi,2018,6313.0,False
+Jambi,2019,6848.0,False
+Jambi,2020,4709.0,False
+Jambi,2021,3701.0,False
+Jambi,2022,5359.0,False
+Jambi,2023,7432.0,False
+Jambi,2024,7592.0,False
+Jawa Barat,2015,27805.0,False
+Jawa Barat,2016,29351.0,False
+Jawa Barat,2017,25183.0,False
+Jawa Barat,2018,16209.0,False
+Jawa Barat,2019,13145.0,False
+Jawa Barat,2020,11256.0,False
+Jawa Barat,2021,7502.0,False
+Jawa Barat,2022,29485.0,False
+Jawa Barat,2023,45694.0,False
+Jawa Barat,2024,37636.0,False
+Jawa Tengah,2015,15958.0,False
+Jawa Tengah,2016,14353.0,False
+Jawa Tengah,2017,12033.0,False
+Jawa Tengah,2018,9127.0,False
+Jawa Tengah,2019,10317.0,False
+Jawa Tengah,2020,10712.0,False
+Jawa Tengah,2021,8909.0,False
+Jawa Tengah,2022,30060.0,False
+Jawa Tengah,2023,42304.0,False
+Jawa Tengah,2024,41460.0,False
+Jawa Timur,2015,27394.0,False
+Jawa Timur,2016,5437.0,False
+Jawa Timur,2017,28902.0,False
+Jawa Timur,2018,26295.0,False
+Jawa Timur,2019,26985.0,False
+Jawa Timur,2020,17642.0,False
+Jawa Timur,2021,19257.0,False
+Jawa Timur,2022,51905.0,False
+Jawa Timur,2023,66741.0,False
+Jawa Timur,2024,60102.0,False
+Kalimantan Barat,2015,6669.0,False
+Kalimantan Barat,2016,7311.0,False
+Kalimantan Barat,2017,6020.0,False
+Kalimantan Barat,2018,5814.0,False
+Kalimantan Barat,2019,4721.0,False
+Kalimantan Barat,2020,3858.0,False
+Kalimantan Barat,2021,4048.0,False
+Kalimantan Barat,2022,3975.0,False
+Kalimantan Barat,2023,6028.0,False
+Kalimantan Barat,2024,6246.0,False
+Kalimantan Selatan,2015,6809.0,False
+Kalimantan Selatan,2016,3712.0,False
+Kalimantan Selatan,2017,6578.0,False
+Kalimantan Selatan,2018,2667.0,False
+Kalimantan Selatan,2019,5375.0,False
+Kalimantan Selatan,2020,5206.0,False
+Kalimantan Selatan,2021,4973.0,False
+Kalimantan Selatan,2022,5016.0,False
+Kalimantan Selatan,2023,6375.0,False
+Kalimantan Selatan,2024,5952.0,False
+Kalimantan Tengah,2015,2681.0,False
+Kalimantan Tengah,2016,7211.0,False
+Kalimantan Tengah,2017,2699.0,False
+Kalimantan Tengah,2018,5699.0,False
+Kalimantan Tengah,2019,2444.0,False
+Kalimantan Tengah,2020,2629.0,False
+Kalimantan Tengah,2021,2399.0,False
+Kalimantan Tengah,2022,3189.0,False
+Kalimantan Tengah,2023,4420.0,False
+Kalimantan Tengah,2024,4897.0,False
+Kalimantan Timur,2015,8764.0,False
+Kalimantan Timur,2016,8896.0,False
+Kalimantan Timur,2017,9149.0,False
+Kalimantan Timur,2018,6287.0,False
+Kalimantan Timur,2019,4417.0,False
+Kalimantan Timur,2020,3609.0,False
+Kalimantan Timur,2021,4564.0,False
+Kalimantan Timur,2022,4221.0,False
+Kalimantan Timur,2023,6762.0,False
+Kalimantan Timur,2024,7158.0,False
+Kalimantan Utara,2019,876.0,False
+Kalimantan Utara,2020,1015.0,False
+Kalimantan Utara,2021,971.0,False
+Kalimantan Utara,2022,1280.0,False
+Kalimantan Utara,2023,1701.0,False
+Kalimantan Utara,2024,1593.0,False
+Kepulauan Bangka Belitung,2015,1875.0,False
+Kepulauan Bangka Belitung,2016,2094.0,False
+Kepulauan Bangka Belitung,2017,1931.0,False
+Kepulauan Bangka Belitung,2018,2048.0,False
+Kepulauan Bangka Belitung,2019,1953.0,False
+Kepulauan Bangka Belitung,2020,1931.0,False
+Kepulauan Bangka Belitung,2021,1566.0,False
+Kepulauan Bangka Belitung,2022,2072.0,False
+Kepulauan Bangka Belitung,2023,2211.0,False
+Kepulauan Bangka Belitung,2024,2645.0,False
+Kepulauan Riau,2015,4892.0,False
+Kepulauan Riau,2016,4885.0,False
+Kepulauan Riau,2017,3673.0,False
+Kepulauan Riau,2018,3409.0,False
+Kepulauan Riau,2019,3159.0,False
+Kepulauan Riau,2020,2843.0,False
+Kepulauan Riau,2021,2481.0,False
+Kepulauan Riau,2022,3358.0,False
+Kepulauan Riau,2023,5074.0,False
+Kepulauan Riau,2024,5294.0,False
+Lampung,2015,9218.0,False
+Lampung,2016,10485.0,False
+Lampung,2017,11089.0,False
+Lampung,2018,8963.0,False
+Lampung,2019,8534.0,False
+Lampung,2020,7594.0,False
+Lampung,2021,9764.0,False
+Lampung,2022,11022.0,False
+Lampung,2023,16608.0,False
+Lampung,2024,16249.0,False
+Maluku,2015,1873.0,False
+Maluku,2016,2559.0,False
+Maluku,2017,3086.0,False
+Maluku,2018,2751.0,False
+Maluku,2019,3495.0,False
+Maluku,2020,5350.0,False
+Maluku,2021,3139.0,False
+Maluku,2022,2383.0,False
+Maluku,2023,4741.0,False
+Maluku,2024,4512.0,False
+Maluku Utara,2015,814.0,False
+Maluku Utara,2016,1096.0,False
+Maluku Utara,2017,789.0,False
+Maluku Utara,2020,850.0,False
+Maluku Utara,2021,1008.0,False
+Maluku Utara,2022,1220.0,False
+Maluku Utara,2023,2334.0,False
+Maluku Utara,2024,2146.0,False
+Nusa Tenggara Barat,2015,6015.0,False
+Nusa Tenggara Barat,2016,7779.0,False
+Nusa Tenggara Barat,2017,8132.0,False
+Nusa Tenggara Barat,2018,6451.0,False
+Nusa Tenggara Barat,2019,8185.0,False
+Nusa Tenggara Barat,2020,8591.0,False
+Nusa Tenggara Barat,2021,6296.0,False
+Nusa Tenggara Barat,2022,5296.0,False
+Nusa Tenggara Barat,2023,7550.0,False
+Nusa Tenggara Barat,2024,7546.0,False
+Nusa Tenggara Timur,2015,6709.0,False
+Nusa Tenggara Timur,2016,8713.0,False
+Nusa Tenggara Timur,2017,6729.0,False
+Nusa Tenggara Timur,2018,6257.0,False
+Nusa Tenggara Timur,2019,5865.0,False
+Nusa Tenggara Timur,2020,4790.0,False
+Nusa Tenggara Timur,2021,4909.0,False
+Nusa Tenggara Timur,2022,5991.0,False
+Nusa Tenggara Timur,2023,12692.0,False
+Nusa Tenggara Timur,2024,13007.0,False
+Papua,2015,7194.0,False
+Papua,2016,8103.0,False
+Papua,2017,6785.0,False
+Papua,2018,7311.0,False
+Papua,2019,6994.0,False
+Papua,2020,6962.0,False
+Papua,2021,6236.0,False
+Papua,2022,7584.0,False
+Papua,2023,14074.0,False
+Papua,2024,13922.0,False
+Papua Barat,2015,1356.0,False
+Papua Barat,2016,3123.0,False
+Papua Barat,2017,2284.0,False
+Papua Barat,2018,3475.0,False
+Papua Barat,2019,2972.0,False
+Papua Barat,2020,3162.0,False
+Papua Barat,2021,2784.0,False
+Papua Barat,2022,4083.0,False
+Papua Barat,2023,6410.0,False
+Papua Barat,2024,6085.0,False
+Riau,2015,9595.0,False
+Riau,2016,8520.0,False
+Riau,2017,6869.0,False
+Riau,2018,7246.0,False
+Riau,2019,6570.0,False
+Riau,2020,8194.0,False
+Riau,2021,7512.0,False
+Riau,2022,12389.0,False
+Riau,2023,15777.0,False
+Riau,2024,17799.0,False
+Sulawesi Barat,2018,1817.0,False
+Sulawesi Barat,2019,1863.0,False
+Sulawesi Barat,2020,1704.0,False
+Sulawesi Barat,2021,1500.0,False
+Sulawesi Barat,2022,2027.0,False
+Sulawesi Barat,2023,2679.0,False
+Sulawesi Barat,2024,2882.0,False
+Sulawesi Selatan,2015,16088.0,False
+Sulawesi Selatan,2016,15071.0,False
+Sulawesi Selatan,2017,21616.0,False
+Sulawesi Selatan,2018,21498.0,False
+Sulawesi Selatan,2019,16008.0,False
+Sulawesi Selatan,2020,12815.0,False
+Sulawesi Selatan,2021,14636.0,False
+Sulawesi Selatan,2022,28679.0,False
+Sulawesi Selatan,2023,41196.0,False
+Sulawesi Selatan,2024,39443.0,False
+Sulawesi Tengah,2015,8988.0,False
+Sulawesi Tengah,2016,9602.0,False
+Sulawesi Tengah,2017,10240.0,False
+Sulawesi Tengah,2018,9379.0,False
+Sulawesi Tengah,2019,6265.0,False
+Sulawesi Tengah,2020,5454.0,False
+Sulawesi Tengah,2021,5139.0,False
+Sulawesi Tengah,2022,5453.0,False
+Sulawesi Tengah,2023,8944.0,False
+Sulawesi Tengah,2024,9623.0,False
+Sulawesi Tenggara,2015,3655.0,False
+Sulawesi Tenggara,2016,3756.0,False
+Sulawesi Tenggara,2017,2866.0,False
+Sulawesi Tenggara,2018,1263.0,False
+Sulawesi Tenggara,2019,1213.0,False
+Sulawesi Tenggara,2020,2148.0,False
+Sulawesi Tenggara,2021,2431.0,False
+Sulawesi Tenggara,2022,3828.0,False
+Sulawesi Tenggara,2023,6276.0,False
+Sulawesi Tenggara,2024,5939.0,False
+Sulawesi Utara,2015,7837.0,False
+Sulawesi Utara,2016,9923.0,False
+Sulawesi Utara,2017,7981.0,False
+Sulawesi Utara,2018,10247.0,False
+Sulawesi Utara,2019,7425.0,False
+Sulawesi Utara,2020,6274.0,False
+Sulawesi Utara,2021,6215.0,False
+Sulawesi Utara,2022,9618.0,False
+Sulawesi Utara,2023,14265.0,False
+Sulawesi Utara,2024,13078.0,False
+Sumatera Barat,2015,16277.0,False
+Sumatera Barat,2016,14921.0,False
+Sumatera Barat,2017,13205.0,False
+Sumatera Barat,2018,12953.0,False
+Sumatera Barat,2019,11064.0,False
+Sumatera Barat,2020,7992.0,False
+Sumatera Barat,2021,5666.0,False
+Sumatera Barat,2022,7691.0,False
+Sumatera Barat,2023,12722.0,False
+Sumatera Barat,2024,13099.0,False
+Sumatera Selatan,2015,20575.0,False
+Sumatera Selatan,2016,9124.0,False
+Sumatera Selatan,2017,15728.0,False
+Sumatera Selatan,2018,13558.0,False
+Sumatera Selatan,2019,12861.0,False
+Sumatera Selatan,2020,12189.0,False
+Sumatera Selatan,2021,13037.0,False
+Sumatera Selatan,2022,11453.0,False
+Sumatera Selatan,2023,21335.0,False
+Sumatera Selatan,2024,25154.0,False
+Sumatera Utara,2015,35248.0,False
+Sumatera Utara,2016,37102.0,False
+Sumatera Utara,2017,39867.0,False
+Sumatera Utara,2018,32922.0,False
+Sumatera Utara,2019,30831.0,False
+Sumatera Utara,2020,32990.0,False
+Sumatera Utara,2021,36534.0,False
+Sumatera Utara,2022,43555.0,False
+Sumatera Utara,2023,62278.0,False
+Sumatera Utara,2024,60724.0,False

@@ -1,0 +1,4 @@
+model,accuracy,f1_macro,roc_auc,f1_rendah,f1_sedang,f1_tinggi,f1_berbahaya
+Logistic Regression,0.598,0.5008,0.7374,0.5,0.7126,0.6,0.1905
+Random Forest,0.6078,0.472,0.9062,0.6,0.6882,0.6,0.0
+XGBoost,0.6373,0.5295,0.8525,0.6,0.7033,0.6479,0.1667

@@ -1,0 +1,12 @@
+feature,dtype,non_null,null,null_pct,min,max,mean
+crime_rate_lag1,float64,297,34,10.3%,0.0,819.2,167.86
+crime_rate_lag2,float64,263,68,20.5%,0.0,446.2,158.39
+crime_rate_ma3,float64,297,34,10.3%,7.0,615.9,168.68
+crime_rate_yoy_abs,float64,297,34,10.3%,-211.8,840.8,9.49
+crime_rate_yoy_change,float64,295,36,10.9%,-100.0,425.7,12.27
+trend_direction,object,263,68,20.5%,-,-,-
+trend_direction_enc,float64,263,68,20.5%,-1.0,1.0,0.01
+unemp_x_density,float64,331,0,0.0%,36.0,98929.8,3880.47
+crime_per_density,float64,331,0,0.0%,0.0,105.15,2.68
+danger_level,category,331,0,0.0%,-,-,-
+danger_level_enc,category,331,0,0.0%,-,-,-

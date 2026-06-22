@@ -1,0 +1,332 @@
+provinsi,tahun,crime_total
+Aceh,2015,8048
+Aceh,2016,9646
+Aceh,2017,8885
+Aceh,2018,8758
+Aceh,2019,7483
+Aceh,2020,7745
+Aceh,2021,6651
+Aceh,2022,10137
+Aceh,2023,12420
+Aceh,2024,11934
+Bali,2015,5032
+Bali,2016,4764
+Bali,2017,3589
+Bali,2018,3212
+Bali,2019,3047
+Bali,2020,2597
+Bali,2021,2404
+Bali,2022,6304
+Bali,2023,11916
+Bali,2024,13848
+Banten,2015,5002
+Banten,2016,4570
+Banten,2017,3692
+Banten,2018,3490
+Banten,2019,3287
+Banten,2020,4250
+Banten,2021,3434
+Banten,2022,5038
+Banten,2023,7392
+Banten,2024,6868
+Bengkulu,2015,4463
+Bengkulu,2016,3345
+Bengkulu,2017,4867
+Bengkulu,2018,3389
+Bengkulu,2019,3453
+Bengkulu,2020,3333
+Bengkulu,2021,3493
+Bengkulu,2022,3613
+Bengkulu,2023,5579
+Bengkulu,2024,5323
+DI Yogyakarta,2015,9692
+DI Yogyakarta,2016,8348
+DI Yogyakarta,2017,7251
+DI Yogyakarta,2018,6731
+DI Yogyakarta,2019,6650
+DI Yogyakarta,2020,7721
+DI Yogyakarta,2021,4774
+DI Yogyakarta,2022,10591
+DI Yogyakarta,2023,12061
+DI Yogyakarta,2024,11659
+DKI Jakarta,2015,44461
+DKI Jakarta,2016,43842
+DKI Jakarta,2017,34767
+DKI Jakarta,2018,34655
+DKI Jakarta,2019,31934
+DKI Jakarta,2020,26585
+DKI Jakarta,2021,29103
+DKI Jakarta,2022,32602
+DKI Jakarta,2023,87426
+DKI Jakarta,2024,77261
+Gorontalo,2015,3372
+Gorontalo,2016,3763
+Gorontalo,2017,3099
+Gorontalo,2018,2836
+Gorontalo,2019,2367
+Gorontalo,2020,2518
+Gorontalo,2021,2445
+Gorontalo,2022,2488
+Gorontalo,2023,3574
+Gorontalo,2024,3317
+Jambi,2015,10564
+Jambi,2016,5904
+Jambi,2017,9531
+Jambi,2018,6313
+Jambi,2019,6848
+Jambi,2020,4709
+Jambi,2021,3701
+Jambi,2022,5359
+Jambi,2023,7432
+Jambi,2024,7592
+Jawa Barat,2015,27805
+Jawa Barat,2016,29351
+Jawa Barat,2017,25183
+Jawa Barat,2018,16209
+Jawa Barat,2019,13145
+Jawa Barat,2020,11256
+Jawa Barat,2021,7502
+Jawa Barat,2022,29485
+Jawa Barat,2023,45694
+Jawa Barat,2024,37636
+Jawa Tengah,2015,15958
+Jawa Tengah,2016,14353
+Jawa Tengah,2017,12033
+Jawa Tengah,2018,9127
+Jawa Tengah,2019,10317
+Jawa Tengah,2020,10712
+Jawa Tengah,2021,8909
+Jawa Tengah,2022,30060
+Jawa Tengah,2023,42304
+Jawa Tengah,2024,41460
+Jawa Timur,2015,27394
+Jawa Timur,2016,5437
+Jawa Timur,2017,28902
+Jawa Timur,2018,26295
+Jawa Timur,2019,26985
+Jawa Timur,2020,17642
+Jawa Timur,2021,19257
+Jawa Timur,2022,51905
+Jawa Timur,2023,66741
+Jawa Timur,2024,60102
+Kalimantan Barat,2015,6669
+Kalimantan Barat,2016,7311
+Kalimantan Barat,2017,6020
+Kalimantan Barat,2018,5814
+Kalimantan Barat,2019,4721
+Kalimantan Barat,2020,3858
+Kalimantan Barat,2021,4048
+Kalimantan Barat,2022,3975
+Kalimantan Barat,2023,6028
+Kalimantan Barat,2024,6246
+Kalimantan Selatan,2015,6809
+Kalimantan Selatan,2016,3712
+Kalimantan Selatan,2017,6578
+Kalimantan Selatan,2018,2667
+Kalimantan Selatan,2019,5375
+Kalimantan Selatan,2020,5206
+Kalimantan Selatan,2021,4973
+Kalimantan Selatan,2022,5016
+Kalimantan Selatan,2023,6375
+Kalimantan Selatan,2024,5952
+Kalimantan Tengah,2015,2681
+Kalimantan Tengah,2016,7211
+Kalimantan Tengah,2017,2699
+Kalimantan Tengah,2018,5699
+Kalimantan Tengah,2019,2444
+Kalimantan Tengah,2020,2629
+Kalimantan Tengah,2021,2399
+Kalimantan Tengah,2022,3189
+Kalimantan Tengah,2023,4420
+Kalimantan Tengah,2024,4897
+Kalimantan Timur,2015,8764
+Kalimantan Timur,2016,8896
+Kalimantan Timur,2017,9149
+Kalimantan Timur,2018,6287
+Kalimantan Timur,2019,4417
+Kalimantan Timur,2020,3609
+Kalimantan Timur,2021,4564
+Kalimantan Timur,2022,4221
+Kalimantan Timur,2023,6762
+Kalimantan Timur,2024,7158
+Kalimantan Utara,2019,876
+Kalimantan Utara,2020,1015
+Kalimantan Utara,2021,971
+Kalimantan Utara,2022,1280
+Kalimantan Utara,2023,1701
+Kalimantan Utara,2024,1593
+Kepulauan Bangka Belitung,2015,1875
+Kepulauan Bangka Belitung,2016,2094
+Kepulauan Bangka Belitung,2017,1931
+Kepulauan Bangka Belitung,2018,2048
+Kepulauan Bangka Belitung,2019,1953
+Kepulauan Bangka Belitung,2020,1931
+Kepulauan Bangka Belitung,2021,1566
+Kepulauan Bangka Belitung,2022,2072
+Kepulauan Bangka Belitung,2023,2211
+Kepulauan Bangka Belitung,2024,2645
+Kepulauan Riau,2015,4892
+Kepulauan Riau,2016,4885
+Kepulauan Riau,2017,3673
+Kepulauan Riau,2018,3409
+Kepulauan Riau,2019,3159
+Kepulauan Riau,2020,2843
+Kepulauan Riau,2021,2481
+Kepulauan Riau,2022,3358
+Kepulauan Riau,2023,5074
+Kepulauan Riau,2024,5294
+Lampung,2015,9218
+Lampung,2016,10485
+Lampung,2017,11089
+Lampung,2018,8963
+Lampung,2019,8534
+Lampung,2020,7594
+Lampung,2021,9764
+Lampung,2022,11022
+Lampung,2023,16608
+Lampung,2024,16249
+Maluku,2015,1873
+Maluku,2016,2559
+Maluku,2017,3086
+Maluku,2018,2751
+Maluku,2019,3495
+Maluku,2020,5350
+Maluku,2021,3139
+Maluku,2022,2383
+Maluku,2023,4741
+Maluku,2024,4512
+Maluku Utara,2015,814
+Maluku Utara,2016,1096
+Maluku Utara,2017,789
+Maluku Utara,2020,850
+Maluku Utara,2021,1008
+Maluku Utara,2022,1220
+Maluku Utara,2023,2334
+Maluku Utara,2024,2146
+Nusa Tenggara Barat,2015,6015
+Nusa Tenggara Barat,2016,7779
+Nusa Tenggara Barat,2017,8132
+Nusa Tenggara Barat,2018,6451
+Nusa Tenggara Barat,2019,8185
+Nusa Tenggara Barat,2020,8591
+Nusa Tenggara Barat,2021,6296
+Nusa Tenggara Barat,2022,5296
+Nusa Tenggara Barat,2023,7550
+Nusa Tenggara Barat,2024,7546
+Nusa Tenggara Timur,2015,6709
+Nusa Tenggara Timur,2016,8713
+Nusa Tenggara Timur,2017,6729
+Nusa Tenggara Timur,2018,6257
+Nusa Tenggara Timur,2019,5865
+Nusa Tenggara Timur,2020,4790
+Nusa Tenggara Timur,2021,4909
+Nusa Tenggara Timur,2022,5991
+Nusa Tenggara Timur,2023,12692
+Nusa Tenggara Timur,2024,13007
+Papua,2015,7194
+Papua,2016,8103
+Papua,2017,6785
+Papua,2018,7311
+Papua,2019,6994
+Papua,2020,6962
+Papua,2021,6236
+Papua,2022,7584
+Papua,2023,14074
+Papua,2024,13922
+Papua Barat,2015,1356
+Papua Barat,2016,3123
+Papua Barat,2017,2284
+Papua Barat,2018,3475
+Papua Barat,2019,2972
+Papua Barat,2020,3162
+Papua Barat,2021,2784
+Papua Barat,2022,4083
+Papua Barat,2023,6410
+Papua Barat,2024,6085
+Riau,2015,9595
+Riau,2016,8520
+Riau,2017,6869
+Riau,2018,7246
+Riau,2019,6570
+Riau,2020,8194
+Riau,2021,7512
+Riau,2022,12389
+Riau,2023,15777
+Riau,2024,17799
+Sulawesi Barat,2018,1817
+Sulawesi Barat,2019,1863
+Sulawesi Barat,2020,1704
+Sulawesi Barat,2021,1500
+Sulawesi Barat,2022,2027
+Sulawesi Barat,2023,2679
+Sulawesi Barat,2024,2882
+Sulawesi Selatan,2015,16088
+Sulawesi Selatan,2016,15071
+Sulawesi Selatan,2017,21616
+Sulawesi Selatan,2018,21498
+Sulawesi Selatan,2019,16008
+Sulawesi Selatan,2020,12815
+Sulawesi Selatan,2021,14636
+Sulawesi Selatan,2022,28679
+Sulawesi Selatan,2023,41196
+Sulawesi Selatan,2024,39443
+Sulawesi Tengah,2015,8988
+Sulawesi Tengah,2016,9602
+Sulawesi Tengah,2017,10240
+Sulawesi Tengah,2018,9379
+Sulawesi Tengah,2019,6265
+Sulawesi Tengah,2020,5454
+Sulawesi Tengah,2021,5139
+Sulawesi Tengah,2022,5453
+Sulawesi Tengah,2023,8944
+Sulawesi Tengah,2024,9623
+Sulawesi Tenggara,2015,3655
+Sulawesi Tenggara,2016,3756
+Sulawesi Tenggara,2017,2866
+Sulawesi Tenggara,2018,1263
+Sulawesi Tenggara,2019,1213
+Sulawesi Tenggara,2020,2148
+Sulawesi Tenggara,2021,2431
+Sulawesi Tenggara,2022,3828
+Sulawesi Tenggara,2023,6276
+Sulawesi Tenggara,2024,5939
+Sulawesi Utara,2015,7837
+Sulawesi Utara,2016,9923
+Sulawesi Utara,2017,7981
+Sulawesi Utara,2018,10247
+Sulawesi Utara,2019,7425
+Sulawesi Utara,2020,6274
+Sulawesi Utara,2021,6215
+Sulawesi Utara,2022,9618
+Sulawesi Utara,2023,14265
+Sulawesi Utara,2024,13078
+Sumatera Barat,2015,16277
+Sumatera Barat,2016,14921
+Sumatera Barat,2017,13205
+Sumatera Barat,2018,12953
+Sumatera Barat,2019,11064
+Sumatera Barat,2020,7992
+Sumatera Barat,2021,5666
+Sumatera Barat,2022,7691
+Sumatera Barat,2023,12722
+Sumatera Barat,2024,13099
+Sumatera Selatan,2015,20575
+Sumatera Selatan,2016,9124
+Sumatera Selatan,2017,15728
+Sumatera Selatan,2018,13558
+Sumatera Selatan,2019,12861
+Sumatera Selatan,2020,12189
+Sumatera Selatan,2021,13037
+Sumatera Selatan,2022,11453
+Sumatera Selatan,2023,21335
+Sumatera Selatan,2024,25154
+Sumatera Utara,2015,35248
+Sumatera Utara,2016,37102
+Sumatera Utara,2017,39867
+Sumatera Utara,2018,32922
+Sumatera Utara,2019,30831
+Sumatera Utara,2020,32990
+Sumatera Utara,2021,36534
+Sumatera Utara,2022,43555
+Sumatera Utara,2023,62278
+Sumatera Utara,2024,60724

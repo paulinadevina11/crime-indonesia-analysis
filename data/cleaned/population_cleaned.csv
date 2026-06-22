@@ -1,0 +1,382 @@
+provinsi,population_density,tahun,population,is_extrapolated
+Aceh,85.9,2015,4976861,True
+Aceh,86.9,2016,5035090,True
+Aceh,87.9,2017,5094000,True
+Aceh,88.9,2018,5153600,True
+Aceh,89.9,2019,5213897,True
+Aceh,91.0,2020,5274900,False
+Aceh,92.0,2021,5333700,False
+Aceh,95.0,2022,5407900,False
+Aceh,96.0,2023,5482500,False
+Aceh,98.0,2024,5554800,False
+Aceh,99.0,2025,5626000,False
+Aceh,100.0,2026,5695900,False
+Bali,704.8,2015,4073461,True
+Bali,713.0,2016,4121120,True
+Bali,721.4,2017,4169337,True
+Bali,729.8,2018,4218119,True
+Bali,738.4,2019,4267471,True
+Bali,747.0,2020,4317400,False
+Bali,755.0,2021,4362700,False
+Bali,790.0,2022,4415100,False
+Bali,788.0,2023,4404300,False
+Bali,793.0,2024,4433300,False
+Bali,798.0,2025,4461300,False
+Bali,804.0,2026,4488200,False
+Banten,1162.4,2015,11231973,True
+Banten,1176.0,2016,11363387,True
+Banten,1189.7,2017,11496339,True
+Banten,1203.7,2018,11630846,True
+Banten,1217.8,2019,11766927,True
+Banten,1232.0,2020,11904600,False
+Banten,1248.0,2021,12061500,False
+Banten,1310.0,2022,12252000,False
+Banten,1316.0,2023,12307700,False
+Banten,1329.0,2024,12431400,False
+Banten,1341.0,2025,12537400,False
+Banten,1351.0,2026,12641300,False
+Bengkulu,95.3,2015,1897093,True
+Bengkulu,96.4,2016,1919289,True
+Bengkulu,97.5,2017,1941744,True
+Bengkulu,98.7,2018,1964463,True
+Bengkulu,99.8,2019,1987447,True
+Bengkulu,101.0,2020,2010700,False
+Bengkulu,102.0,2021,2032900,False
+Bengkulu,102.0,2022,2060100,False
+Bengkulu,104.0,2023,2086000,False
+Bengkulu,105.0,2024,2112200,False
+Bengkulu,106.0,2025,2138000,False
+Bengkulu,108.0,2026,2163300,False
+DI Yogyakarta,1104.8,2015,3461413,True
+DI Yogyakarta,1117.8,2016,3501912,True
+DI Yogyakarta,1130.8,2017,3542884,True
+DI Yogyakarta,1144.1,2018,3584336,True
+DI Yogyakarta,1157.5,2019,3626273,True
+DI Yogyakarta,1171.0,2020,3668700,False
+DI Yogyakarta,1185.0,2021,3712900,False
+DI Yogyakarta,1186.0,2022,3761900,False
+DI Yogyakarta,1178.0,2023,3736500,False
+DI Yogyakarta,1186.0,2024,3759500,False
+DI Yogyakarta,1193.0,2025,3781500,False
+DI Yogyakarta,1199.0,2026,3802700,False
+DKI Jakarta,15008.2,2015,9965326,True
+DKI Jakarta,15183.8,2016,10081921,True
+DKI Jakarta,15361.5,2017,10199879,True
+DKI Jakarta,15541.2,2018,10319218,True
+DKI Jakarta,15723.0,2019,10439953,True
+DKI Jakarta,15907.0,2020,10562100,False
+DKI Jakarta,15978.0,2021,10609700,False
+DKI Jakarta,16158.0,2022,10680000,False
+DKI Jakarta,16146.0,2023,10672100,False
+DKI Jakarta,16165.0,2024,10684900,False
+DKI Jakarta,16155.0,2025,10678000,False
+DKI Jakarta,16129.0,2026,10669700,False
+Gorontalo,98.1,2015,1105497,True
+Gorontalo,99.3,2016,1118432,True
+Gorontalo,100.4,2017,1131517,True
+Gorontalo,101.6,2018,1144756,True
+Gorontalo,102.8,2019,1158150,True
+Gorontalo,104.0,2020,1171700,False
+Gorontalo,105.0,2021,1181000,False
+Gorontalo,99.0,2022,1192700,False
+Gorontalo,101.0,2023,1213200,False
+Gorontalo,102.0,2024,1227800,False
+Gorontalo,103.0,2025,1242200,False
+Gorontalo,104.0,2026,1256400,False
+Jambi,67.0,2015,3347722,True
+Jambi,67.8,2016,3386890,True
+Jambi,68.6,2017,3426517,True
+Jambi,69.4,2018,3466607,True
+Jambi,70.2,2019,3507166,True
+Jambi,71.0,2020,3548200,False
+Jambi,72.0,2021,3585100,False
+Jambi,74.0,2022,3631100,False
+Jambi,75.0,2023,3679200,False
+Jambi,76.0,2024,3724300,False
+Jambi,77.0,2025,3768500,False
+Jambi,78.0,2026,3811700,False
+Jawa Barat,1287.9,2015,45546639,True
+Jawa Barat,1302.9,2016,46079535,True
+Jawa Barat,1318.2,2017,46618665,True
+Jawa Barat,1333.6,2018,47164104,True
+Jawa Barat,1349.2,2019,47715924,True
+Jawa Barat,1365.0,2020,48274200,False
+Jawa Barat,1379.0,2021,48782400,False
+Jawa Barat,1334.0,2022,49405800,False
+Jawa Barat,1346.0,2023,49860300,False
+Jawa Barat,1359.0,2024,50345200,False
+Jawa Barat,1370.0,2025,50759000,False
+Jawa Barat,1381.0,2026,51163900,False
+Jawa Tengah,1050.1,2015,34452794,True
+Jawa Tengah,1062.4,2016,34855892,True
+Jawa Tengah,1074.8,2017,35263706,True
+Jawa Tengah,1087.4,2018,35676291,True
+Jawa Tengah,1100.1,2019,36093704,True
+Jawa Tengah,1113.0,2020,36516000,False
+Jawa Tengah,1120.0,2021,36742500,False
+Jawa Tengah,1078.0,2022,37032400,False
+Jawa Tengah,1093.0,2023,37541000,False
+Jawa Tengah,1104.0,2024,37892300,False
+Jawa Tengah,1113.0,2025,38233900,False
+Jawa Tengah,1123.0,2026,38565000,False
+Jawa Timur,802.9,2015,38368030,True
+Jawa Timur,812.3,2016,38816936,True
+Jawa Timur,821.8,2017,39271094,True
+Jawa Timur,831.4,2018,39730566,True
+Jawa Timur,841.2,2019,40195414,True
+Jawa Timur,851.0,2020,40665700,False
+Jawa Timur,855.0,2021,40878800,False
+Jawa Timur,857.0,2022,41150000,False
+Jawa Timur,865.0,2023,41527900,False
+Jawa Timur,870.0,2024,41814500,False
+Jawa Timur,876.0,2025,42089300,False
+Jawa Timur,881.0,2026,42352000,False
+Kalimantan Barat,34.9,2015,5108479,True
+Kalimantan Barat,35.3,2016,5168248,True
+Kalimantan Barat,35.7,2017,5228716,True
+Kalimantan Barat,36.1,2018,5289892,True
+Kalimantan Barat,36.6,2019,5351784,True
+Kalimantan Barat,37.0,2020,5414400,False
+Kalimantan Barat,37.0,2021,5470800,False
+Kalimantan Barat,38.0,2022,5541400,False
+Kalimantan Barat,38.0,2023,5623300,False
+Kalimantan Barat,39.0,2024,5695500,False
+Kalimantan Barat,39.0,2025,5766000,False
+Kalimantan Barat,40.0,2026,5835000,False
+Kalimantan Selatan,99.1,2015,3843436,True
+Kalimantan Selatan,100.2,2016,3888404,True
+Kalimantan Selatan,101.4,2017,3933898,True
+Kalimantan Selatan,102.6,2018,3979925,True
+Kalimantan Selatan,103.8,2019,4026490,True
+Kalimantan Selatan,105.0,2020,4073600,False
+Kalimantan Selatan,106.0,2021,4122600,False
+Kalimantan Selatan,113.0,2022,4182100,False
+Kalimantan Selatan,114.0,2023,4222300,False
+Kalimantan Selatan,115.0,2024,4273400,False
+Kalimantan Selatan,116.0,2025,4323300,False
+Kalimantan Selatan,118.0,2026,4372100,False
+Kalimantan Tengah,16.0,2015,2519141,True
+Kalimantan Tengah,16.2,2016,2548615,True
+Kalimantan Tengah,16.4,2017,2578434,True
+Kalimantan Tengah,16.6,2018,2608602,True
+Kalimantan Tengah,16.8,2019,2639122,True
+Kalimantan Tengah,17.0,2020,2670000,False
+Kalimantan Tengah,18.0,2021,2702200,False
+Kalimantan Tengah,18.0,2022,2741100,False
+Kalimantan Tengah,18.0,2023,2773700,False
+Kalimantan Tengah,18.0,2024,2809700,False
+Kalimantan Tengah,19.0,2025,2845000,False
+Kalimantan Tengah,19.0,2026,2879500,False
+Kalimantan Timur,27.4,2015,3553216,True
+Kalimantan Timur,27.7,2016,3594788,True
+Kalimantan Timur,28.0,2017,3636847,True
+Kalimantan Timur,28.3,2018,3679398,True
+Kalimantan Timur,28.7,2019,3722447,True
+Kalimantan Timur,29.0,2020,3766000,False
+Kalimantan Timur,30.0,2021,3808200,False
+Kalimantan Timur,30.0,2022,3859800,False
+Kalimantan Timur,31.0,2023,3909700,False
+Kalimantan Timur,32.0,2024,4045900,False
+Kalimantan Timur,34.0,2025,4267600,False
+Kalimantan Timur,35.0,2026,4478400,False
+Kalimantan Utara,8.5,2015,662147,True
+Kalimantan Utara,8.6,2016,669894,True
+Kalimantan Utara,8.7,2017,677732,True
+Kalimantan Utara,8.8,2018,685662,True
+Kalimantan Utara,8.9,2019,693684,True
+Kalimantan Utara,9.0,2020,701800,False
+Kalimantan Utara,9.0,2021,713600,False
+Kalimantan Utara,10.0,2022,727800,False
+Kalimantan Utara,10.0,2023,730000,False
+Kalimantan Utara,11.0,2024,739800,False
+Kalimantan Utara,11.0,2025,749400,False
+Kalimantan Utara,11.0,2026,758800,False
+Kepulauan Bangka Belitung,84.0,2015,1373451,True
+Kepulauan Bangka Belitung,85.0,2016,1389520,True
+Kepulauan Bangka Belitung,85.9,2017,1405778,True
+Kepulauan Bangka Belitung,87.0,2018,1422225,True
+Kepulauan Bangka Belitung,88.0,2019,1438865,True
+Kepulauan Bangka Belitung,89.0,2020,1455700,False
+Kepulauan Bangka Belitung,90.0,2021,1473200,False
+Kepulauan Bangka Belitung,90.0,2022,1494600,False
+Kepulauan Bangka Belitung,91.0,2023,1511900,False
+Kepulauan Bangka Belitung,92.0,2024,1531500,False
+Kepulauan Bangka Belitung,93.0,2025,1550800,False
+Kepulauan Bangka Belitung,94.0,2026,1569700,False
+Kepulauan Riau,237.8,2015,1947947,True
+Kepulauan Riau,240.5,2016,1970738,True
+Kepulauan Riau,243.4,2017,1993796,True
+Kepulauan Riau,246.2,2018,2017123,True
+Kepulauan Riau,249.1,2019,2040724,True
+Kepulauan Riau,252.0,2020,2064600,False
+Kepulauan Riau,258.0,2021,2118200,False
+Kepulauan Riau,264.0,2022,2179800,False
+Kepulauan Riau,260.0,2023,2152600,False
+Kepulauan Riau,264.0,2024,2183300,False
+Kepulauan Riau,268.0,2025,2213500,False
+Kepulauan Riau,275.0,2026,2243100,False
+Lampung,245.3,2015,8498846,True
+Lampung,248.2,2016,8598283,True
+Lampung,251.1,2017,8698883,True
+Lampung,254.0,2018,8800660,True
+Lampung,257.0,2019,8903628,True
+Lampung,260.0,2020,9007800,False
+Lampung,262.0,2021,9081800,False
+Lampung,273.0,2022,9176600,False
+Lampung,277.0,2023,9314000,False
+Lampung,281.0,2024,9419600,False
+Lampung,284.0,2025,9522900,False
+Lampung,287.0,2026,9623800,False
+Maluku,36.8,2015,1744435,True
+Maluku,37.2,2016,1764844,True
+Maluku,37.7,2017,1785493,True
+Maluku,38.1,2018,1806383,True
+Maluku,38.5,2019,1827518,True
+Maluku,39.0,2020,1848900,False
+Maluku,40.0,2021,1862600,False
+Maluku,41.0,2022,1881700,False
+Maluku,42.0,2023,1920500,False
+Maluku,42.0,2024,1945600,False
+Maluku,43.0,2025,1970600,False
+Maluku,43.0,2026,1995200,False
+Maluku Utara,41.0,2021,1299200,False
+Maluku Utara,40.0,2022,1319300,False
+Maluku Utara,41.0,2023,1337100,False
+Maluku Utara,41.0,2024,1355600,False
+Maluku Utara,42.0,2025,1373800,False
+Maluku Utara,44.0,2026,1391700,False
+Nusa Tenggara Barat,269.8,2015,5019507,True
+Nusa Tenggara Barat,273.0,2016,5078235,True
+Nusa Tenggara Barat,276.2,2017,5137650,True
+Nusa Tenggara Barat,279.4,2018,5197761,True
+Nusa Tenggara Barat,282.7,2019,5258575,True
+Nusa Tenggara Barat,286.0,2020,5320100,False
+Nusa Tenggara Barat,290.0,2021,5390000,False
+Nusa Tenggara Barat,278.0,2022,5473700,False
+Nusa Tenggara Barat,283.0,2023,5560300,False
+Nusa Tenggara Barat,287.0,2024,5646000,False
+Nusa Tenggara Barat,291.0,2025,5731100,False
+Nusa Tenggara Barat,296.0,2026,5815300,False
+Nusa Tenggara Timur,102.8,2015,5024696,True
+Nusa Tenggara Timur,104.0,2016,5083485,True
+Nusa Tenggara Timur,105.3,2017,5142962,True
+Nusa Tenggara Timur,106.5,2018,5203134,True
+Nusa Tenggara Timur,107.7,2019,5264011,True
+Nusa Tenggara Timur,109.0,2020,5325600,False
+Nusa Tenggara Timur,111.0,2021,5387700,False
+Nusa Tenggara Timur,118.0,2022,5466300,False
+Nusa Tenggara Timur,120.0,2023,5569100,False
+Nusa Tenggara Timur,122.0,2024,5656000,False
+Nusa Tenggara Timur,124.0,2025,5742600,False
+Nusa Tenggara Timur,126.0,2026,5828600,False
+Papua,13.0,2025,1073600,False
+Papua Barat,10.0,2024,578700,False
+Papua Barat,16.0,2025,636400,False
+Riau,68.9,2015,6032824,True
+Riau,69.7,2016,6103408,True
+Riau,70.5,2017,6174818,True
+Riau,71.3,2018,6247064,True
+Riau,72.2,2019,6320154,True
+Riau,73.0,2020,6394100,False
+Riau,75.0,2021,6493600,False
+Riau,74.0,2022,6614400,False
+Riau,74.0,2023,6642900,False
+Riau,75.0,2024,6728100,False
+Riau,76.0,2025,6811200,False
+Riau,77.0,2026,6892400,False
+Sulawesi Barat,80.2,2015,1339013,True
+Sulawesi Barat,81.1,2016,1354680,True
+Sulawesi Barat,82.1,2017,1370529,True
+Sulawesi Barat,83.0,2018,1386565,True
+Sulawesi Barat,84.0,2019,1402787,True
+Sulawesi Barat,85.0,2020,1419200,False
+Sulawesi Barat,86.0,2021,1436800,False
+Sulawesi Barat,88.0,2022,1458600,False
+Sulawesi Barat,89.0,2023,1481100,False
+Sulawesi Barat,91.0,2024,1503200,False
+Sulawesi Barat,92.0,2025,1525300,False
+Sulawesi Barat,93.0,2026,1547400,False
+Sulawesi Selatan,183.0,2015,8560834,True
+Sulawesi Selatan,185.2,2016,8660996,True
+Sulawesi Selatan,187.3,2017,8762330,True
+Sulawesi Selatan,189.5,2018,8864849,True
+Sulawesi Selatan,191.8,2019,8968568,True
+Sulawesi Selatan,194.0,2020,9073500,False
+Sulawesi Selatan,196.0,2021,9139500,False
+Sulawesi Selatan,204.0,2022,9225800,False
+Sulawesi Selatan,207.0,2023,9362300,False
+Sulawesi Selatan,209.0,2024,9463400,False
+Sulawesi Selatan,211.0,2025,9563100,False
+Sulawesi Selatan,213.0,2026,9661300,False
+Sulawesi Tengah,45.3,2015,2817004,True
+Sulawesi Tengah,45.8,2016,2849963,True
+Sulawesi Tengah,46.4,2017,2883307,True
+Sulawesi Tengah,46.9,2018,2917042,True
+Sulawesi Tengah,47.4,2019,2951171,True
+Sulawesi Tengah,48.0,2020,2985700,False
+Sulawesi Tengah,49.0,2021,3021900,False
+Sulawesi Tengah,50.0,2022,3066100,False
+Sulawesi Tengah,50.0,2023,3086800,False
+Sulawesi Tengah,51.0,2024,3121800,False
+Sulawesi Tengah,51.0,2025,3156100,False
+Sulawesi Tengah,52.0,2026,3189800,False
+Sulawesi Tenggara,65.1,2015,2476589,True
+Sulawesi Tenggara,65.9,2016,2505566,True
+Sulawesi Tenggara,66.6,2017,2534881,True
+Sulawesi Tenggara,67.4,2018,2564539,True
+Sulawesi Tenggara,68.2,2019,2594544,True
+Sulawesi Tenggara,69.0,2020,2624900,False
+Sulawesi Tenggara,70.0,2021,2659200,False
+Sulawesi Tenggara,75.0,2022,2701700,False
+Sulawesi Tenggara,76.0,2023,2749000,False
+Sulawesi Tenggara,77.0,2024,2793100,False
+Sulawesi Tenggara,78.0,2025,2836700,False
+Sulawesi Tenggara,80.0,2026,2880000,False
+Sulawesi Utara,178.3,2015,2473759,True
+Sulawesi Utara,180.4,2016,2502702,True
+Sulawesi Utara,182.5,2017,2531984,True
+Sulawesi Utara,184.7,2018,2561608,True
+Sulawesi Utara,186.8,2019,2591579,True
+Sulawesi Utara,189.0,2020,2621900,False
+Sulawesi Utara,190.0,2021,2638600,False
+Sulawesi Utara,183.0,2022,2659500,False
+Sulawesi Utara,185.0,2023,2681500,False
+Sulawesi Utara,186.0,2024,2701800,False
+Sulawesi Utara,188.0,2025,2721400,False
+Sulawesi Utara,189.0,2026,2740500,False
+Sumatera Barat,124.5,2015,5221793,True
+Sumatera Barat,126.0,2016,5282888,True
+Sumatera Barat,127.5,2017,5344698,True
+Sumatera Barat,129.0,2018,5407231,True
+Sumatera Barat,130.5,2019,5470495,True
+Sumatera Barat,132.0,2020,5534500,False
+Sumatera Barat,133.0,2021,5580200,False
+Sumatera Barat,134.0,2022,5640600,False
+Sumatera Barat,137.0,2023,5757200,False
+Sumatera Barat,139.0,2024,5836200,False
+Sumatera Barat,140.0,2025,5914300,False
+Sumatera Barat,142.0,2026,5991600,False
+Sumatera Selatan,86.8,2015,7988980,True
+Sumatera Selatan,87.8,2016,8082451,True
+Sumatera Selatan,88.8,2017,8177016,True
+Sumatera Selatan,89.9,2018,8272687,True
+Sumatera Selatan,90.9,2019,8369477,True
+Sumatera Selatan,92.0,2020,8467400,False
+Sumatera Selatan,93.0,2021,8550900,False
+Sumatera Selatan,100.0,2022,8657000,False
+Sumatera Selatan,101.0,2023,8743500,False
+Sumatera Selatan,102.0,2024,8837300,False
+Sumatera Selatan,103.0,2025,8928500,False
+Sumatera Selatan,104.0,2026,9017100,False
+Sumatera Utara,191.5,2015,13963213,True
+Sumatera Utara,193.8,2016,14126582,True
+Sumatera Utara,196.0,2017,14291863,True
+Sumatera Utara,198.3,2018,14459078,True
+Sumatera Utara,200.7,2019,14628249,True
+Sumatera Utara,203.0,2020,14799400,False
+Sumatera Utara,205.0,2021,14936200,False
+Sumatera Utara,209.0,2022,15115200,False
+Sumatera Utara,212.0,2023,15386600,False
+Sumatera Utara,215.0,2024,15588500,False
+Sumatera Utara,218.0,2025,15785800,False
+Sumatera Utara,221.0,2026,15978600,False

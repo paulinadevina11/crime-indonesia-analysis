@@ -1,0 +1,103 @@
+index,y_true_enc,y_true_label,y_pred_enc_xgb,y_pred_label_xgb,y_pred_enc_rf,y_pred_label_rf,provinsi,tahun
+0,1,Sedang,1,Sedang,1,Sedang,Aceh,2022
+1,2,Tinggi,1,Sedang,1,Sedang,Aceh,2023
+2,2,Tinggi,2,Tinggi,2,Tinggi,Aceh,2024
+3,1,Sedang,0,Rendah,0,Rendah,Bali,2022
+4,2,Tinggi,1,Sedang,1,Sedang,Bali,2023
+5,2,Tinggi,2,Tinggi,2,Tinggi,Bali,2024
+6,0,Rendah,0,Rendah,0,Rendah,Banten,2022
+7,0,Rendah,0,Rendah,0,Rendah,Banten,2023
+8,0,Rendah,0,Rendah,0,Rendah,Banten,2024
+9,1,Sedang,1,Sedang,1,Sedang,Bengkulu,2022
+10,2,Tinggi,2,Tinggi,2,Tinggi,Bengkulu,2023
+11,2,Tinggi,2,Tinggi,2,Tinggi,Bengkulu,2024
+12,2,Tinggi,2,Tinggi,2,Tinggi,DI Yogyakarta,2022
+13,2,Tinggi,2,Tinggi,2,Tinggi,DI Yogyakarta,2023
+14,2,Tinggi,2,Tinggi,2,Tinggi,DI Yogyakarta,2024
+15,2,Tinggi,2,Tinggi,2,Tinggi,DKI Jakarta,2022
+16,3,Berbahaya,2,Tinggi,2,Tinggi,DKI Jakarta,2023
+17,3,Berbahaya,2,Tinggi,2,Tinggi,DKI Jakarta,2024
+18,2,Tinggi,2,Tinggi,2,Tinggi,Gorontalo,2022
+19,2,Tinggi,2,Tinggi,2,Tinggi,Gorontalo,2023
+20,2,Tinggi,2,Tinggi,2,Tinggi,Gorontalo,2024
+21,1,Sedang,1,Sedang,1,Sedang,Jambi,2022
+22,2,Tinggi,1,Sedang,1,Sedang,Jambi,2023
+23,2,Tinggi,1,Sedang,1,Sedang,Jambi,2024
+24,0,Rendah,0,Rendah,0,Rendah,Jawa Barat,2022
+25,0,Rendah,0,Rendah,0,Rendah,Jawa Barat,2023
+26,0,Rendah,0,Rendah,0,Rendah,Jawa Barat,2024
+27,0,Rendah,0,Rendah,0,Rendah,Jawa Tengah,2022
+28,1,Sedang,0,Rendah,0,Rendah,Jawa Tengah,2023
+29,1,Sedang,0,Rendah,0,Rendah,Jawa Tengah,2024
+30,1,Sedang,0,Rendah,0,Rendah,Jawa Timur,2022
+31,1,Sedang,1,Sedang,1,Sedang,Jawa Timur,2023
+32,1,Sedang,1,Sedang,1,Sedang,Jawa Timur,2024
+33,0,Rendah,0,Rendah,0,Rendah,Kalimantan Barat,2022
+34,1,Sedang,0,Rendah,0,Rendah,Kalimantan Barat,2023
+35,1,Sedang,0,Rendah,0,Rendah,Kalimantan Barat,2024
+36,1,Sedang,1,Sedang,1,Sedang,Kalimantan Selatan,2022
+37,1,Sedang,1,Sedang,1,Sedang,Kalimantan Selatan,2023
+38,1,Sedang,1,Sedang,1,Sedang,Kalimantan Selatan,2024
+39,1,Sedang,0,Rendah,0,Rendah,Kalimantan Tengah,2022
+40,1,Sedang,0,Rendah,1,Sedang,Kalimantan Tengah,2023
+41,1,Sedang,1,Sedang,1,Sedang,Kalimantan Tengah,2024
+42,1,Sedang,0,Rendah,0,Rendah,Kalimantan Timur,2022
+43,1,Sedang,1,Sedang,1,Sedang,Kalimantan Timur,2023
+44,1,Sedang,1,Sedang,1,Sedang,Kalimantan Timur,2024
+45,1,Sedang,1,Sedang,1,Sedang,Kalimantan Utara,2022
+46,2,Tinggi,1,Sedang,1,Sedang,Kalimantan Utara,2023
+47,2,Tinggi,2,Tinggi,2,Tinggi,Kalimantan Utara,2024
+48,1,Sedang,1,Sedang,1,Sedang,Kepulauan Bangka Belitung,2022
+49,1,Sedang,1,Sedang,1,Sedang,Kepulauan Bangka Belitung,2023
+50,1,Sedang,1,Sedang,1,Sedang,Kepulauan Bangka Belitung,2024
+51,1,Sedang,1,Sedang,1,Sedang,Kepulauan Riau,2022
+52,2,Tinggi,1,Sedang,1,Sedang,Kepulauan Riau,2023
+53,2,Tinggi,2,Tinggi,1,Sedang,Kepulauan Riau,2024
+54,1,Sedang,1,Sedang,0,Rendah,Lampung,2022
+55,1,Sedang,1,Sedang,1,Sedang,Lampung,2023
+56,1,Sedang,1,Sedang,1,Sedang,Lampung,2024
+57,1,Sedang,1,Sedang,1,Sedang,Maluku,2022
+58,2,Tinggi,1,Sedang,1,Sedang,Maluku,2023
+59,2,Tinggi,1,Sedang,1,Sedang,Maluku,2024
+60,0,Rendah,0,Rendah,0,Rendah,Maluku Utara,2022
+61,1,Sedang,1,Sedang,1,Sedang,Maluku Utara,2023
+62,1,Sedang,1,Sedang,1,Sedang,Maluku Utara,2024
+63,0,Rendah,1,Sedang,1,Sedang,Nusa Tenggara Barat,2022
+64,1,Sedang,1,Sedang,1,Sedang,Nusa Tenggara Barat,2023
+65,1,Sedang,1,Sedang,1,Sedang,Nusa Tenggara Barat,2024
+66,1,Sedang,0,Rendah,0,Rendah,Nusa Tenggara Timur,2022
+67,2,Tinggi,1,Sedang,1,Sedang,Nusa Tenggara Timur,2023
+68,2,Tinggi,1,Sedang,1,Sedang,Nusa Tenggara Timur,2024
+69,1,Sedang,1,Sedang,1,Sedang,Papua,2022
+70,2,Tinggi,2,Tinggi,2,Tinggi,Papua,2023
+71,2,Tinggi,2,Tinggi,2,Tinggi,Papua,2024
+72,2,Tinggi,2,Tinggi,2,Tinggi,Papua Barat,2022
+73,3,Berbahaya,2,Tinggi,2,Tinggi,Papua Barat,2023
+74,3,Berbahaya,2,Tinggi,2,Tinggi,Papua Barat,2024
+75,1,Sedang,1,Sedang,1,Sedang,Riau,2022
+76,2,Tinggi,1,Sedang,1,Sedang,Riau,2023
+77,2,Tinggi,2,Tinggi,2,Tinggi,Riau,2024
+78,1,Sedang,1,Sedang,1,Sedang,Sulawesi Barat,2022
+79,1,Sedang,1,Sedang,1,Sedang,Sulawesi Barat,2023
+80,1,Sedang,1,Sedang,1,Sedang,Sulawesi Barat,2024
+81,2,Tinggi,2,Tinggi,2,Tinggi,Sulawesi Selatan,2022
+82,3,Berbahaya,2,Tinggi,2,Tinggi,Sulawesi Selatan,2023
+83,3,Berbahaya,2,Tinggi,2,Tinggi,Sulawesi Selatan,2024
+84,1,Sedang,1,Sedang,1,Sedang,Sulawesi Tengah,2022
+85,2,Tinggi,2,Tinggi,2,Tinggi,Sulawesi Tengah,2023
+86,2,Tinggi,2,Tinggi,2,Tinggi,Sulawesi Tengah,2024
+87,1,Sedang,0,Rendah,0,Rendah,Sulawesi Tenggara,2022
+88,2,Tinggi,1,Sedang,1,Sedang,Sulawesi Tenggara,2023
+89,2,Tinggi,1,Sedang,1,Sedang,Sulawesi Tenggara,2024
+90,3,Berbahaya,2,Tinggi,2,Tinggi,Sulawesi Utara,2022
+91,3,Berbahaya,3,Berbahaya,2,Tinggi,Sulawesi Utara,2023
+92,3,Berbahaya,2,Tinggi,2,Tinggi,Sulawesi Utara,2024
+93,1,Sedang,1,Sedang,1,Sedang,Sumatera Barat,2022
+94,2,Tinggi,1,Sedang,1,Sedang,Sumatera Barat,2023
+95,2,Tinggi,2,Tinggi,1,Sedang,Sumatera Barat,2024
+96,1,Sedang,1,Sedang,1,Sedang,Sumatera Selatan,2022
+97,2,Tinggi,1,Sedang,1,Sedang,Sumatera Selatan,2023
+98,2,Tinggi,2,Tinggi,2,Tinggi,Sumatera Selatan,2024
+99,2,Tinggi,2,Tinggi,2,Tinggi,Sumatera Utara,2022
+100,3,Berbahaya,2,Tinggi,2,Tinggi,Sumatera Utara,2023
+101,3,Berbahaya,2,Tinggi,2,Tinggi,Sumatera Utara,2024
